@@ -1,7 +1,7 @@
 -- Version: 5.2.4-alpha
 local a = {}
-warn("Library brought to you by Vision Software")
-warn("https://discord.gg/N9NEkNqzhk")
+warn("hi hotty")
+warn("made this for u")
 local b
 b =
     hookmetamethod(
