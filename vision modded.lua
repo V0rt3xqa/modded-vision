@@ -1,7 +1,6 @@
 -- Version: 5.2.4-alpha
 local a = {}
-warn("hi hotty")
-warn("made this for u")
+warn("hi")
 local b
 b =
     hookmetamethod(
@@ -76,7 +75,7 @@ function a:Icons()
             Informational = "rbxassetid://9838877673",
             Custom = "rbxassetid://9838878267"
         },
-        VisionLogo = ""
+        VisionLogo = "rbxassetid://10006089373"
     }
     return icons
 end
@@ -270,7 +269,7 @@ function a:CreateWindow(j)
         Y.Position = UDim2.new(0.5, 0, 1.5, 0)
         Y.ZIndex = 2
         Y.Font = Enum.Font.GothamBold
-        Y.Text = "Survival game for my hotty"
+        Y.Text = "Vision"
         Y.TextTransparency = 1
         Y.TextColor3 = Color3.new(1, 1, 1)
         Y.TextSize = 24
